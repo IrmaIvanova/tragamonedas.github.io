@@ -1,0 +1,49 @@
+html{margin:0; padding:0}
+body{text-align:left; background-color:#fff; font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#535456; line-height:140%; margin:0; padding:0}
+#overw{background-image:url(../images/backtop.png); background-repeat:repeat-x; background-color:#fff; text-align:left; margin:0; padding:0 0 0 19px}
+#overw #top{text-align:left; width:979px; height:130px; background-image:url(../images/backheader.png); position:relative; margin:0; padding:0}
+#overw #top #bsbl{position:absolute; top:3px; left:13px; font-family:Arial,Helvetica; font-size:11px; color:#c1cfdc; line-height:normal}
+#overw #top #pppgame{position:absolute; top:79px; right:8px; font-family:Arial,Helvetica; font-size:11px; color:#e7eaef; line-height:normal; text-align:right}
+#overw #top #pppgame a{color:#eeb854; font-weight:700; text-decoration:none}
+#overw #top #pppgame a:hover{color:#fbe9c8}
+#overw #top #nav{position:absolute; top:108px; left:15px; font-family:Arial,Helvetica; font-size:11px; color:#8181a9; font-weight:400; line-height:normal; text-transform:uppercase}
+#overw #top #nav a{color:#7eb9cc; font-weight:700; text-decoration:none; margin:0 10px}
+#overw #top #nav a:hover{color:#c1e1ec}
+#contentw{text-align:left; width:979px; background-image:url(../images/backcontent.png); background-color:#fff; margin:0; padding:0;min-height:600px}
+#contentw #left{float:left; margin:0px; padding:17px 0px 0px 6px; width:174px}
+#contentw #right{float:right; margin:0px; padding:17px 18px 0px 0px; width:250px}
+#contentw #content{margin:0px 0px 0px 17px; padding:17px 0px 0px 1px; width:672px}
+#underw{background-image:url(../images/backbottom.png); background-repeat:repeat-x; height:139px; margin:0; padding:0 27px;}
+#underw #underlinks{height:76px; line-height:24px; font-family:Arial,Helvetica; font-size:11px; color:#d79f59; padding:26px 0 0 0}
+#underw #underlinks a{color:#d79f5a; text-decoration:none; font-weight:700}
+#underw #underlinks a:hover{color:#f1d2ac; text-decoration:underline}
+#underw #copyright{border-top:1px solid #8181a0; font-family:Arial,Helvetica; font-size:11px; color:#8181aa; padding:12px 0}
+#underw #copyright a{color:#8181a9; text-decoration:none; font-weight:700}
+#underw #copyright a:hover{color:#f1d2ac; text-decoration:underline}
+table.cartin{width:100%; border-collapse:collapse; font-size:12px; border-width:0; padding:0 0 10px}
+table.cartin th{vertical-align:middle; color:#fff; height:36px; text-align:center; background-image:url(../images/chartIndexb.png); font-weight:700; border-width:0; padding:0}
+table.cartin .wb{border-left:1px solid #FFF}
+table.cartin td{margin-top:2px; font-weight:700; vertical-align:middle; text-align:center; border-width:0; padding:5px}
+table.cartin a{color:#3f79aa; text-decoration:underline}
+table.cartin a:hover{color:#205079}
+div.headline{background-image:url(../images/boxhead.png); background-repeat:no-repeat; height:31px; margin:0 0 8px; padding:0}
+div.headline h4{background-image:url(../images/boxhead2.png); background-position:top right; background-repeat:no-repeat; height:31px; color:#fff; font-weight:700; font-size:11px; line-height:11px; overflow:hidden; margin:0; padding:10px 5px 0 32px}
+div.mipm{min-height:64px;line-height:18px;border-bottom:1px solid #e7eaef; margin:0 0 5px; padding:5px 0}
+div.mipm a img{border:1px solid #e7eaef; float:left; width:62px; height:54px; margin:0 6px 0 0; padding:1px}
+table.revmeta{float:right; border-top:1px solid #e7eaef; border-left:1px solid #e7eaef; border-collapse:collapse; margin:0 0 5px 5px; padding:0}
+table.revmeta th{background-color:#e7eaef; border-bottom:1px solid #e7eaef; border-right:1px solid #e7eaef; font-weight:400; vertical-align:top; padding:2px 5px}
+table.revmeta td{border-bottom:1px solid #e7eaef; border-right:1px solid #e7eaef; font-weight:700; vertical-align:top; padding:2px 5px}
+div.revmeta{float:right; border-color:#313742; border-style:solid; border-width:1px 0 0 1px}
+div.revmeta div{border-color:#313742; border-style:solid; border-width:0 1px 1px 0}
+.bold{font-weight:700}
+.fineprint{font-size:10px; color:#7ebe1c}
+.copyright{font-size:10px; color:#aaa}
+h1{font-size:20px; color:#070809; font-weight:bold; padding:20px 0px 10px 8px; margin:0px 0px 10px 0px; border-bottom:1px solid #e7eaef}
+h2{font-size:14px; color:#070809; font-weight:bold; padding:0px 0px 5px 0px; margin:0px 0px 10px 0px; background-repeat:repeat-x; background-position:bottom left}
+h2.subtitle{font-size:14px; color:#070809; font-weight:bold; padding:20px 0px 10px 8px; margin:0px 0px 10px 0px; border-bottom:1px solid #e7eaef}
+h2.headline{margin:0 0 0 -1px;padding:0 0 3px;color:#105688;font-weight:bold;font-size:16px;font-family:Helvetica,Arial,sans-serif;letter-spacing:-0.05em;line-height:1.3em}
+h4.headline{margin:0 0 0 -1px;padding:0 0 3px;color:#105688;font-weight:bold;font-size:16px;font-family:Helvetica,Arial,sans-serif;letter-spacing:-0.05em;line-height:1.3em}
+h4.subtitle{padding:10px 0px 0px 10px;border-top: 1px solid #ccc; font-size: 14px; font-weight: bold;margin:0;}
+a{color:#0e3272; text-decoration:none; font-weight:700; outline:none}
+a:hover{color:#5f80bb}
+a img{border:0}
