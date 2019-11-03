@@ -148,13 +148,13 @@ a img{border:0}
     #overw #top{
         text-align:left;
         height:130px; 
-        background-image:url('../images/backheader1.png'); 
+        background-image:url('../images/backheader2.png'); 
         position:relative;
         width: 100%;
-        height: 204px;
-        background-size: 100% 100%;
-
+        height: 198px;
+        background-size: 138% 186%;
     }
+
     #overw #top #pppgame {
         position: absolute;
         top: 122px;
@@ -178,11 +178,6 @@ a img{border:0}
     }
     #overw {
         padding: 0;
-    }
-    #overw #top {
-        width: 100%;
-        height: 137px;
-        background-size: 116% 100%;
     }
     #contentw {
         width: 100%;
